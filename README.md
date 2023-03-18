@@ -2,6 +2,13 @@
 
 ## Introduction
 
+Classifying pediatric brain tumors into molecular subtypes profoundly determines appropriate treatment options selection as well as patients’ survival prediction.
+
+Therefore, it is of great importance to efficiently classify patients into specific subgroups depending on their epigenome’s molecular characteristics- one of which, playing a pivotal role, is their methylation profile. 
+To achieve that, we validated the efficiency of Methped. Methped is an already-developed tool for brain tumor diagnosis and subgroup identification. 
+
+Via analyzing genome-wide DNA methylation array data, Methped is able to accurately classify a brain tumor to one of the 9 most prevalent pediatric brain tumor clinical groups. These 9 groups consist of: pilocytic astrocytoma, high-grade glioma/glioblastoma (GBM), diffuse intrinsic pontine glioma (DIPG), ependymoma, and primitive neuroectodermal tumor of the CNS (CNS-PNET), medulloblastoma (cerebellar PNET) or supratentorial PNET (sPNET). 
+
 ## Methods
 
 Methylation data for pediatric (< 18 y/o) patients with brain tumors. We downloaded data for 3 patients from TCGA (Case IDs: TCGA-12-1091, TCGA-HT-7483, TCGA-DB-5278)
